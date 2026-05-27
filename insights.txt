@@ -1,0 +1,6 @@
+Key Insights:
+1. West region has highest profit.
+2. Technology category contributes highest sales.
+3. Sales increased steadily from 2015 to 2017.
+4. Total sales reached 2.30M.
+5. Total profit reached 286.40K.
